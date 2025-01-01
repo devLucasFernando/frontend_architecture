@@ -1,6 +1,6 @@
 # Frontend architecture
 
-## O objetivo desse repositório é percorres pelas principais implementações de arquitetura no frontend.
+## O objetivo desse repositório é percorrer pelas principais implementações de arquitetura no frontend.
 
 ### MVVM (Model-View-ViewModel)
 
